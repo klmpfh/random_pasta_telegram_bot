@@ -17,7 +17,7 @@ bot.onText(/\/go/, sendMsg);
 
 const data = require('./data.json');
 
-function sendMsg(chatId){
+function sendMsg(msg){
 
     const msgStringArray = [
         'your pasta:',
@@ -31,5 +31,5 @@ function sendMsg(chatId){
     msgStringArray.push('');
     msgStringArray.push('get a new one with /get, /start, /pasta, or /go');
 
-    bot.sendMessage(chatId, msgStringArray.join('\n'));
+    bot.sendMessage(msg.chat.id, msgStringArray.join('\n'));
 }
