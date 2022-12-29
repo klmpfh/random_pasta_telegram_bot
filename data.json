@@ -1,32 +1,31 @@
 [
     [
-        "chili",
-        "garlic",
-        "thyme",
-        "basil",
-        "rosemary",
-        "oregano"
+        "🌶 chili",
+        "🧄 garlic",
+        "🌿 thyme",
+        "🌿 basil",
+        "🌿 rosemary",
+        "🌿 oregano"
     ],
     [
-        "olives",
-        "nuts",
-        "tuna",
-        "egg",
-        "dried tomatoes",
-        "Salmon"
+        "🫒 olives",
+        "🥜 nuts",
+        "🐟 tuna",
+        "🥚 egg",
+        "🍅 dried tomatoes",
+        "🐟 salmon"
     ],
     [
-        "onions",
-        "paprika",
-        "zucchini",
-        "carrots",
-        "tomatoes",
-        "onions"
+        "🧅 onions",
+        "🫑 paprika",
+        "🥒 zucchini",
+        "🥕 carrots",
+        "🍅 tomatoes"
     ],
     [
-        "ground beef sauce",
-        "tomato sauce",
-        "(sear) roast",
+        "🥩 beef sauce",
+        "🍅 tomato sauce",
+        "🔥 (sear) roast",
         "gratinated",
         "cream sauce",
         "pesto"
@@ -40,11 +39,11 @@
         "Rigatoni"
     ],
     [
-        "pecorino",
-        "ricotta",
-        "parmesan",
-        "hot cheese",
-        "gorgonzola",
-        "mozzarella"
+        "🧀 pecorino",
+        "🧀 ricotta",
+        "🧀 parmesan",
+        "🧀 gouda",
+        "🧀 gorgonzola",
+        "🧀 mozzarella"
     ]
 ]
